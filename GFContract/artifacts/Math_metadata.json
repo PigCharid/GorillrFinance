@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GFNFT.sol": "Math"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GFNFT.sol": {
+			"keccak256": "0x41027833af4cd6dd461654064a01531c00e8b28de383d32ae8c5b77055c60146",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6c6cd7f2d71d17ad5b1274be3abb130c87b771afecdff462904e3e69d1c15eae",
+				"dweb:/ipfs/QmQCBEcenXzNc2yJ7FQLScJ3VoutA4fy2T1TGSmfbxGgBj"
+			]
+		}
+	},
+	"version": 1
+}
