@@ -25,7 +25,7 @@ module.exports = {
     goerli:{
       url:"https://eth-goerli.g.alchemy.com/v2/Q1svh7bjqwrEd5tgBKY5fl5QFxeq3KsG",
       chainId:5,
-      accounts:["92b2361fc2d6db37bdcc9262d4195ec821cd1bb11684d416a823acb0bef678ec"]
+      accounts:[""]
     },
   }
 };
